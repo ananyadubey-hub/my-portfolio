@@ -9,9 +9,10 @@ const Home = () => {
         <h1 className="text-xl md:text-6xl font-bold flex leading-normal tracking-tighter">
           <TextChange />
         </h1>
+        
+       
         <p className="text-sm md:text-2xl tracking-tight ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia,
-          doloremque?
+        I’m a passionate Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I love building responsive web applications and writing clean, maintainable code. Currently, I'm working at Techpile Technology Pvt. Ltd., where I contribute to both frontend and backend development.
         </p>
         <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
           Contact Me
